@@ -1,0 +1,8 @@
+{
+    "author" : ["William Felix"],
+    "name" : "Crosh Cogs",
+    "short" : "General utilities for your Discord server",
+    "description" : "Crosh Cogs gives you a huge amount of cogs resources for Redbot, allowing you to unleash your creativity and grow your Discord server.",
+    "tags" : ["willifelix", "william felix", "willi-felix"],
+    "install_msg": "Thank you for installing!"
+}
