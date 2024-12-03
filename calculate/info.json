@@ -1,0 +1,8 @@
+{
+  "name": "Calculate",
+  "author": ["William"],
+  "description": "A simple calculator cog for basic arithmetic operations.",
+  "install_msg": "Thank you for installing the Calculator cog. Use `[p]calculate` to perform calculations.",
+  "short": "Calculator Cog",
+  "tags": ["calculator", "math", "arithmetic"]
+}
